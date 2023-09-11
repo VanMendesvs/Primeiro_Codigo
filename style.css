@@ -1,0 +1,11 @@
+/*Comentario*/
+
+h1{ color: red;
+}
+h2{ color: gray;}
+
+body {background-color: gray;}
+
+.boxOne { width: 100px; background-color: red;}
+.boxTwo {width: 100px; background-color: beige;}
+.boxThree {width: 100px; background-color: blue;}
